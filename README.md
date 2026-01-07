@@ -1,11 +1,13 @@
-NADRA WEBSITE 
+# NADRA Website – Beginner Project
 
-This project is a beginner-level website inspired by the NADRA system. It is designed using basic HTML, CSS, and JavaScript to practice web development skills. The website includes a clean layout, navigation menu, and informational sections similar to a real NADRA website. This project helped me understand website structure, styling, and basic interactivity, and improved my confidence as a beginner web developer.
+## Project Description
+This project is a beginner-level website inspired by the NADRA (National Database & Registration Authority) system. It is developed as part of an academic project to practice basic web development skills. The website includes informational sections, a simple layout, and navigation similar to a real NADRA website. This project is built using HTML, CSS, and JavaScript.
 
-Group Menbers
+## Group Members
+- Areej Shahbaz  
+- Tooba Saghir  
+- Areesha Kanwal  
 
- Areej shahbaz
- Tooba Saghir
- Areesha Kawal
+## Live Website
 
- LIVE WEBSITE
+
